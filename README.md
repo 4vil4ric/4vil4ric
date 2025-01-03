@@ -1,8 +1,10 @@
 ## Hi there 👋
 2025学习记录
+
 20250101
 今年准备用github记录一下这一年的学习记录，自学最容易懈怠，目前感兴趣的有英文、西语、漏洞挖掘、AI相关、健身；
-还是要多读书，不要空想，书籍是别人思考总结归纳的
+
+还是要多阅读，阅读是学习别人的逻辑和行事方法，比自己独立思考要来的快；
 
 <!--
 **4vil4ric/4vil4ric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
