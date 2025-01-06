@@ -13,6 +13,9 @@ security
 v8
 https://v8.dev/
 https://chromium.googlesource.com/
+https://source.chromium.org/
+https://www.chromium.org/chromium-projects/
+https://codereview.chromium.org/2173003002/ old version codereview
 https://gerrit.googlesource.com/gitiles/+/HEAD/README.md
 https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/
 https://loora1n.github.io/archives/
@@ -69,6 +72,7 @@ https://liquipedia.net/formula1/Main_Page
 ai
 https://opensec-cn.github.io/#/articles/2
 https://datascience.hku.hk/atf/
+https://github.com/modelcontextprotocol
 
 blog
 https://blog.wohin.me/
