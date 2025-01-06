@@ -13,6 +13,7 @@ security
 v8
 https://v8.dev/
 https://chromium.googlesource.com/
+https://gerrit.googlesource.com/gitiles/+/HEAD/README.md
 https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/
 https://loora1n.github.io/archives/
 https://www.darknavy.org/zh/
@@ -71,4 +72,8 @@ https://datascience.hku.hk/atf/
 
 blog
 https://blog.wohin.me/
+
+c++
+https://cplusplus.com/
+https://accu.org/journals/overload/29/161/stroustrup/#References
 
