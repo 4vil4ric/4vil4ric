@@ -60,6 +60,12 @@ https://docs.huihoo.com/nullcon/goa2015/analyzing-chrome-crash-reports-at-scale-
 https://testerhome.com/topics/18171
 https://i.blackhat.com/eu-19/Wednesday/eu-19-Arya-ClusterFuzz-Fuzzing-At-Google-Scale.pdf
 https://powerofcommunity.net/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf
+https://chromium.googlesource.com/chromium/src/+/main/testing/libfuzzer/libFuzzer_integration.md
+https://k4i.top/zh/posts/clusterfuzz-local-setup/
+https://vancir.github.io/blog/2021/notes-about-clusterfuzz-and-continuous-fuzzing/
+https://blog.flanker017.me/
+https://hackmd.io/@iJlfuE8TQ1mdsDvoaObFWQ/By8I0Vinh
+https://www.freebuf.com/articles/web/340365.html
 
 compiler-explorer
 https://github.com/compiler-explorer
@@ -82,6 +88,7 @@ blog
 https://blog.wohin.me/
 fangvv.github.io/Homepage/exp.html
 https://1q43.blog/post/5322/
+https://rtx.meta.security/
 
 c++
 https://cplusplus.com/
