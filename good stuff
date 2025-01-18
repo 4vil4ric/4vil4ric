@@ -54,10 +54,14 @@ https://graphics.stanford.edu/~seander/bithacks.html
 https://blog.wssh.trade/
 https://www.wtf.academy/courses
 https://forum.soliditylang.org/
+https://ethereum.org/zh/developers/tutorials/a-developers-guide-to-ethereum-part-one/
+https://remix.ethereum.org
 https://github.com/slowmist/Web3-Project-Security-Practice-Requirements
 https://github.com/SunWeb3Sec/DeFiHackLabs?tab=readme-ov-file#20250101-lauratoken---pair-balance-manipulation
 https://github.com/razzorsec/AuditorsRoadmap
 https://github.com/transmissions11/solcurity
+https://github.com/ethereum/solidity/blob/develop/SECURITY.md
+https://immunefi.com/academy/ethereum-protocol-attackathon/?utm_source=program_page
 https://darkhandbook.io/
 
 
@@ -148,6 +152,7 @@ https://starming.com/2022/06/10/use-llvm/
 tools
 github.com/ironcalc/ironcalc
 https://hex-rays.com
+http://www.windbg.org/
 
 robot
 https://www.learnroboticsandai.com/post/a-comprehensive-list-of-60-open-source-robots
