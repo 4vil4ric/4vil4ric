@@ -15,6 +15,8 @@ chrome
 https://tracker.ret2happy.com/
 componentid:1363614+
 https://v8.dev/
+
+https://issues.chromium.org/issues/375123371
 https://chromium.googlesource.com/
 https://source.chromium.org/
 https://www.chromium.org/chromium-projects/
@@ -177,3 +179,5 @@ https://medium.com/@ibtissamhammadi/9-500-bug-bounty-how-i-chained-idor-and-bac-
 https://xueqiu.com/8959246745/172442699
 
 https://tracker.debian.org/pkg/chromium
+
+
