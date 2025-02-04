@@ -184,3 +184,6 @@ https://tracker.debian.org/pkg/chromium
 https://community.amd.com/t5/ai/experience-the-deepseek-r1-distilled-reasoning-models-on-amd/ba-p/740593
 
 https://www.infineon.com/dgdl/Infineon-SDIO_platform_support_guide-UserManual-v01_00-EN.pdf?fileId=8ac78c8c8c3de074018c8ba3a9973619
+
+WebGPU: Out-of-bounds GPU buffer access
+caused by @align
