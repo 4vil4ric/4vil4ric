@@ -189,3 +189,5 @@ WebGPU: Out-of-bounds GPU buffer access
 caused by @align
 
 $9,500 Bug Bounty: How I Chained IDOR and BAC to Discover This Critical Vulnerability
+
+https://gpuweb.github.io/gpuweb/wgsl/#align-attr
