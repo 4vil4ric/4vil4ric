@@ -187,3 +187,5 @@ https://www.infineon.com/dgdl/Infineon-SDIO_platform_support_guide-UserManual-v0
 
 WebGPU: Out-of-bounds GPU buffer access
 caused by @align
+
+$9,500 Bug Bounty: How I Chained IDOR and BAC to Discover This Critical Vulnerability
