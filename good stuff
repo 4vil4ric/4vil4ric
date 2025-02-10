@@ -18,6 +18,7 @@ https://v8.dev/
 
 https://issues.chromium.org/issues/375123371
 https://issues.chromium.org/issues/348084786 V8 Sandbox Bypass: with Shared Function Info
+https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/
 
 https://chromium.googlesource.com/
 https://source.chromium.org/
