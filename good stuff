@@ -20,6 +20,7 @@ https://issues.chromium.org/issues/41488920 https://issues.chromium.org/issues/4
 https://issues.chromium.org/issues/375123371
 https://issues.chromium.org/issues/348084786 V8 Sandbox Bypass: with Shared Function Info
 https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
+https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md#RefList-1
 https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/
 https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/
 https://github.blog/security/vulnerability-research/chrome-in-the-wild-bug-analysis-cve-2021-30632/
