@@ -19,6 +19,7 @@ https://v8.dev/
 https://issues.chromium.org/issues/41488920 https://issues.chromium.org/issues/41488920
 https://issues.chromium.org/issues/375123371
 https://issues.chromium.org/issues/348084786 V8 Sandbox Bypass: with Shared Function Info
+https://gist.github.com/mistymntncop/43bfb5a03a81fd1e16770d202a835b80#file-cve-2024-0519-notes
 https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
 https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md#RefList-1
 https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/
