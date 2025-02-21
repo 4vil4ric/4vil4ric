@@ -1,10 +1,10 @@
 ## Hi there 👋
-2025学习记录
+2025 Learning Log
 
 20250101
-今年准备用github记录一下这一年的学习记录，自学最容易懈怠，目前感兴趣的有英文、西语、漏洞挖掘、AI相关、健身；
+This year, I plan to use GitHub to document my learning progress. Self-study is prone to procrastination, so I need to stay disciplined. My current interests include English, Spanish, vulnerability research, AI-related topics, and fitness.
 
-还是要多阅读，阅读是学习别人的逻辑和行事方法，比自己独立思考要来的快；
+I should also read more. Reading helps me learn from others' logic and approaches, which is faster than relying solely on my own independent thinking.
 
 The world’s wondrous, beautiful, and extraordinary sights are often dangerous and distant, therefore rarely visited, and only by the determined.
 
