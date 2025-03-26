@@ -20,7 +20,8 @@ https://webassembly.github.io/spec/core/intro/index.html
 https://abysslab.github.io/2022/03/29/UaF1/#more UAF in Chromium RenderFrameHost class and iframe  
 https://gtoad.github.io/
 https://seclab.stanford.edu/websec/
-https://issues.chromium.org/issues/41488920 
+https://issues.chromium.org/issues/41488920
+https://issues.chromium.org/issues/383647255 Incorrect implementation of the fast path in Object.assign() lead to memory corruption.
 https://sillycross.github.io/2022/04/30/2022-04-30/
 https://issues.chromium.org/issues/375123371
 https://issues.chromium.org/issues/348084786 V8 Sandbox Bypass: with Shared Function Info
