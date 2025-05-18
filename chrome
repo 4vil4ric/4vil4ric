@@ -20,3 +20,4 @@ https://github.blog/security/vulnerability-research/from-object-transition-to-rc
 https://github.blog/security/vulnerability-research/chrome-in-the-wild-bug-analysis-cve-2021-30632/
 https://joyeecheung.github.io/blog/
 https://browserbench.org/JetStream2.1/
+https://issues.chromium.org/issues/366381662 Maglev's incorrect object tracking may lead to RCE vulnerability
