@@ -1,4 +1,12 @@
 chrome
+https://chromium.googlesource.com/
+https://source.chromium.org/
+https://www.chromium.org/chromium-projects/
+https://chromiumdash.appspot.com/home
+https://developers.google.com/issue-tracker
+https://codereview.chromium.org/2173003002/ old version codereview
+https://gerrit.googlesource.com/gitiles/+/HEAD/README.md
+https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?
 https://tracker.ret2happy.com/
 componentid:1363614+
 https://v8.dev/
@@ -6,10 +14,10 @@ https://webassembly.github.io/spec/core/intro/index.html
 https://abysslab.github.io/2022/03/29/UaF1/#more UAF in Chromium RenderFrameHost class and iframe  
 https://gtoad.github.io/
 https://seclab.stanford.edu/websec/
-https://issues.chromium.org/issues/41488920
+https://issues.chromium.org/issues/41488920  Crash in v8::internal::SemiSpaceNewSpace::VerifyObjects
 https://issues.chromium.org/issues/383647255 Incorrect implementation of the fast path in Object.assign() lead to memory corruption.
-https://sillycross.github.io/2022/04/30/2022-04-30/
-https://issues.chromium.org/issues/375123371
+https://sillycross.github.io/2022/04/30/2022-04-30/ The Watchpoint Mechanism in JSC
+https://issues.chromium.org/issues/375123371 WebGPU: Out-of-bounds GPU buffer access caused by @align
 https://issues.chromium.org/issues/348084786 V8 Sandbox Bypass: with Shared Function Info
 https://gist.github.com/mistymntncop/43bfb5a03a81fd1e16770d202a835b80#file-cve-2024-0519-notes
 https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
@@ -21,3 +29,5 @@ https://github.blog/security/vulnerability-research/chrome-in-the-wild-bug-analy
 https://joyeecheung.github.io/blog/
 https://browserbench.org/JetStream2.1/
 https://issues.chromium.org/issues/366381662 Maglev's incorrect object tracking may lead to RCE vulnerability
+https://issues.chromium.org/issues/40075943 Security: TFC 2023 UAF in WebAudio / Renderer RCE
+https://issues.chromium.org/issues/353628445 Security: SEGV_ACCERR in V8
