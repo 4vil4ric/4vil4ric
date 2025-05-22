@@ -31,3 +31,4 @@ https://browserbench.org/JetStream2.1/
 https://issues.chromium.org/issues/366381662 Maglev's incorrect object tracking may lead to RCE vulnerability
 https://issues.chromium.org/issues/40075943 Security: TFC 2023 UAF in WebAudio / Renderer RCE
 https://issues.chromium.org/issues/353628445 Security: SEGV_ACCERR in V8
+https://issues.chromium.org/issues/350324877 Experiment with Hardware Support for the V8 Sandbox
