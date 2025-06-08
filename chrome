@@ -35,3 +35,7 @@ https://issues.chromium.org/issues/40075943 Security: TFC 2023 UAF in WebAudio /
 https://issues.chromium.org/issues/353628445 Security: SEGV_ACCERR in V8
 https://issues.chromium.org/issues/350324877 Experiment with Hardware Support for the V8 Sandbox
 https://issues.chromium.org/issues/398431403 Security: Fatal error in src/compiler/turbofan-typer.cc, line 451
+
+2024
+https://issues.chromium.org/issues/40942152 Security: Attacker Can Execute Arbitrary JavaScript Code in the Highly Privileged "devtools://devtools" Origin
+https://www.youtube.com/watch?v=RLyhPGsEMz4
