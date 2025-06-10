@@ -39,3 +39,6 @@ https://issues.chromium.org/issues/398431403 Security: Fatal error in src/compil
 2024
 https://issues.chromium.org/issues/40942152 Security: Attacker Can Execute Arbitrary JavaScript Code in the Highly Privileged "devtools://devtools" Origin
 https://www.youtube.com/watch?v=RLyhPGsEMz4
+
+2025
+http://pwno.io exploiting a v8 engine pwn challenge
