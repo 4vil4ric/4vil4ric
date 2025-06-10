@@ -12,11 +12,25 @@ https://browserbench.org/JetStream2.1/
 https://tracker.ret2happy.com/
 componentid:1363614+
 https://v8.dev/
+https://old.pwnfuzz.com/posts/v8-pwn-downunderctf/
+https://eternalsakura13.com/2018/05/06/v8/
+https://phrack.org/issues/70/9  Exploiting Logic Bugs in JavaScript JIT Engines
+https://www.jackfromeast.site/blog/v8-exploit-revisiting-starCTF-2019-oob-v8
+https://ruulian.me/post/FCSC2024-holy-cow
+https://www.elttam.com/blog/simple-bugs-with-complex-exploits/
+https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/
+https://github.com/JeremyFetiveau/pwn-just-in-time-exploit 
+https://xz.ax/midenios/ This is a SpiderMonkey pwn challenge that I wrote for the 2022 HTB Business CTF. It was my first time writing a SpiderMonkey exploit, so is fairly straightforward.
 https://docs.google.com/document/d/1njn2dd5_6PB7oZGTmkmoihYnVcJEgRwEFxhHnGoptLk/edit?tab=t.0#heading=h.wjlg391wmhzr
 https://webassembly.github.io/spec/core/intro/index.html
 https://abysslab.github.io/2022/03/29/UaF1/#more UAF in Chromium RenderFrameHost class and iframe  
 https://gtoad.github.io/
 https://seclab.stanford.edu/websec/
+https://ir0nstone.gitbook.io/notes/binexp/browser-exploitation
+https://ptr-yudai.hatenablog.com/entry/2024/07/09/115940 Google CTF 2024 Quals Writeups
+https://gist.github.com/Riatre/83d5fdb970946c8e185c5e1b2b842b1b Google CTF 2022 Pwnable d8 Writeup
+https://yichenchai.github.io/blog/omnitmizer 2020 Pwn2Win OmniTmizer Challenge
+https://medium.com/@priyanshukumarpu/v8-exploitation-star-ctf-2019-oob-v8-3c61457f116f V8 Exploitation : Star CTF 2019 OOB-v8
 https://sillycross.github.io/2022/04/30/2022-04-30/ The Watchpoint Mechanism in JSC
 https://gist.github.com/mistymntncop/43bfb5a03a81fd1e16770d202a835b80#file-cve-2024-0519-notes
 https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
@@ -42,3 +56,4 @@ https://www.youtube.com/watch?v=RLyhPGsEMz4
 
 2025
 http://pwno.io exploiting a v8 engine pwn challenge
+https://pwn.college/quarterly-quiz/v8-exploitation/
