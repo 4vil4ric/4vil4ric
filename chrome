@@ -4,6 +4,10 @@ https://source.chromium.org/
 https://www.chromium.org/chromium-projects/
 https://chromiumdash.appspot.com/home
 https://developers.google.com/issue-tracker
+
+https://v8.dev/
+https://github.com/two-heart/v8-design-docs/blob/main/README.md
+
 https://codereview.chromium.org/2173003002/ old version codereview
 https://gerrit.googlesource.com/gitiles/+/HEAD/README.md
 https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?
@@ -11,7 +15,9 @@ https://joyeecheung.github.io/blog/
 https://browserbench.org/JetStream2.1/
 https://tracker.ret2happy.com/
 componentid:1363614+
-https://v8.dev/
+
+
+
 https://old.pwnfuzz.com/posts/v8-pwn-downunderctf/
 https://eternalsakura13.com/2018/05/06/v8/
 https://phrack.org/issues/70/9  Exploiting Logic Bugs in JavaScript JIT Engines
@@ -66,5 +72,5 @@ https://issues.chromium.org/issues/400086889
 Arbitrary Wasm type confusion due to transient canonical index overflow
 
 https://linz04.github.io/2025/06/20/CVE-2025-5959/
-
+https://www.psbazx.com/ CVE-2024-5171&CVE-2024-5197
 https://issues.chromium.org/issues/330404819
