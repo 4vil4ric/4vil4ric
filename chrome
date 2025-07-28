@@ -108,4 +108,7 @@ https://github.com/TrenchantARC/Garbage-collection-in-v8
 
 https://issues.chromium.org/issues/409619251
 
+https://issues.chromium.org/issues/434464682 Full V8 Cage Address Read using V8 Sandbox Heap AAR primitive
+
+
 https://chromium.googlesource.com/angle/angle.git/+/e1dc0a7ab5d1f1f2edaa7e41447d873895e083bf%5E%21/#F3
