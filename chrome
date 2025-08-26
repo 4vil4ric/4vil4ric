@@ -143,3 +143,5 @@ https://bughunters.google.com/blog/5800341475819520/a-fuzzy-escape-a-tale-of-vul
 https://issues.chromium.org/issues/411573532
 
 https://github.com/mistymntncop/CVE-2025-5419/blob/main/exploit.js
+
+https://chromium-review.googlesource.com/c/v8/v8/+/6532350
